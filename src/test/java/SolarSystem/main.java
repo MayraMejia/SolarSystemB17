@@ -14,5 +14,9 @@ public class main {
         Sun.name="black";
         Sun.temp="-55564626 kelvin";
 
+        Planet2 xaros= new Planet2();
+        xaros.name="nehaio";
+        xaros.color="blue";
+        xaros.size="894040489578km";
     }
 }
